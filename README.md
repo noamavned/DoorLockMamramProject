@@ -32,6 +32,16 @@
 | state | מחזיר הודעה האומרת אם המנעול פתוח או נעול | ✔ |
 | show_trys | מחזיר הודעה האומרת כמה ניסיונות שגויים נשארו עד לנעילה של המנעול |  |
 | send_pic | שולח תמונה מהמצלמה |  |
+
+
+
+
+
+## Hey there, I'm Noam!
+
+- 🌟 [Github](https://github.com/noamavned): Check out my latest projects and contributions!
+- 💬 [Discord](https://discord.com/): You can find me on CHEF#4136. Let's chat!
+- 📸 [Instagram](https://www.instagram.com/noam_avned/): Follow me on Instagram to see some of my latest photos and adventures!
 | beep | מפעיל צפירה ארוכה מהמנעול | ✔ |
 | reset_trys | מאפס את הנסיונות השגויים לנעילה של המנעול | ✔ |
 | ping | פקודה המחזירה את הזמן הגבה של הבוט לשרת | ✔ |

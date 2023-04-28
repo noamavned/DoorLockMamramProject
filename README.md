@@ -50,7 +50,7 @@
 ## Hey there, I'm Noam!
 
 - 🌟 [Github](https://github.com/noamavned): Check out my latest projects and contributions!
-- 💬 [Discord](https://discord.com/): You can find me on CHEF#4136. Let's chat!
+- 💬 [Discord](https://discord.com/): You can find me as CHEF#4136. Let's chat!
 - 📸 [Instagram](https://www.instagram.com/noam_avned/): Follow me on Instagram to see some of my latest photos and adventures!
 
 <p align="center">

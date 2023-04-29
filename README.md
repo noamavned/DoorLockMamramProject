@@ -26,11 +26,11 @@
 # סרטוט חשמלי
 
 <p align="right">
-  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="200" title="hi">
+  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="500" title="circuit">
 </p>
 
 # פקודות
-
+<p align="right">
 | Command |     Description     | Password needed |
 |---|---:|:-:|
 | lock | נועל את המנעול | ✔ |
@@ -43,6 +43,7 @@
 | ping | פקודה המחזירה את הזמן הגבה של הבוט לשרת | ✔ |
 | reboot | מאתחל את המכשיר | ✔ |
 | set_channel | מגדיר את הערוץ אליו נשלחות ההתרעות </br> **כאשר לא מוגדר ערוץ לא ישלחו הודעות** | ✔ |
+</p>
 
 
 

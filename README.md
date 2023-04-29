@@ -25,9 +25,7 @@
 
 # סרטוט חשמלי
 
-<p align="center">
-  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="200" title="hi">
-</p>
+<img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="500" title="circuit">
 
 # פקודות
 

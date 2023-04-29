@@ -31,67 +31,69 @@
 
 # פקודות
 
-<table>
-    <thead>
-        <tr>
-            <th>Command</th>
-            <th>Description</th>
-            <th>Password needed</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>lock</td>
-            <td>נועל את המנעול</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>unlock</td>
-            <td>פותח את המנעול</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>state</td>
-            <td>מחזיר הודעה האומרת אם המנעול פתוח או נעול</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>show_trys</td>
-            <td>מחזיר הודעה האומרת כמה ניסיונות שגויים נשארו עד לנעילה של המנעול</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>send_pic</td>
-            <td>שולח תמונה מהמצלמה</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>beep</td>
-            <td>מפעיל צפירה ארוכה מהמנעול</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>reset_trys</td>
-            <td>מאפס את הנסיונות השגויים לנעילה של המנעול</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>ping</td>
-            <td>פקודה המחזירה את הזמן הגבה של הבוט לשרת</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>reboot</td>
-            <td>מאתחל את המכשיר</td>
-            <td>✔</td>
-        </tr>
-        <tr>
-            <td>set_channel</td>
-            <td>מגדיר את הערוץ אליו נשלחות ההתרעות &lt;/br&gt; **כאשר לא מוגדר ערוץ לא ישלחו הודעות**</td>
-            <td>✔</td>
-        </tr>
-    </tbody>
-</table>
+<p align="right">
+    <table>
+        <thead>
+            <tr>
+                <th>Command</th>
+                <th>Description</th>
+                <th>Password needed</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>lock</td>
+                <td style="text-align:right">נועל את המנעול</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>unlock</td>
+                <td style="text-align:right">פותח את המנעול</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>state</td>
+                <td style="text-align:right">מחזיר הודעה האומרת אם המנעול פתוח או נעול</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>show_trys</td>
+                <td style="text-align:right">מחזיר הודעה האומרת כמה ניסיונות שגויים נשארו עד לנעילה של המנעול</td>
+                <td style="text-align:center"></td>
+            </tr>
+            <tr>
+                <td>send_pic</td>
+                <td style="text-align:right">שולח תמונה מהמצלמה</td>
+                <td style="text-align:center"></td>
+            </tr>
+            <tr>
+                <td>beep</td>
+                <td style="text-align:right">מפעיל צפירה ארוכה מהמנעול</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>reset_trys</td>
+                <td style="text-align:right">מאפס את הנסיונות השגויים לנעילה של המנעול</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>ping</td>
+                <td style="text-align:right">פקודה המחזירה את הזמן הגבה של הבוט לשרת</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>reboot</td>
+                <td style="text-align:right">מאתחל את המכשיר</td>
+                <td style="text-align:center">✔</td>
+            </tr>
+            <tr>
+                <td>set_channel</td>
+                <td style="text-align:right">מגדיר את הערוץ אליו נשלחות ההתרעות </br><strong>כאשר לא מוגדר ערוץ לא ישלחו הודעות</strong></td>
+                <td style="text-align:center">✔</td>
+            </tr>
+        </tbody>
+    </table>
+</p>
 
 
 

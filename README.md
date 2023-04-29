@@ -23,7 +23,7 @@
 כאשר המשתמש רוצה להשתמש במכשיר החכם שלו (כל מכשיר שיכול להריץ את התכנה "דיסקורד") הוא יכול להיכנס לסרבר שהוא יצר עם הבוט המחובר
 **פקודות אלו צורכות סיסמא**
 
-# סרטוט חשמלי
+# סרטוט חשמל
 
 <p align="right">
   <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="500" title="hi">

@@ -26,25 +26,72 @@
 # סרטוט חשמלי
 
 <p align="right">
-  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="500" title="circuit">
+  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="200" title="hi">
 </p>
 
 # פקודות
-<p align="right">
-| Command |     Description     | Password needed |
-|---|---:|:-:|
-| lock | נועל את המנעול | ✔ |
-| unlock | פותח את המנעול | ✔ |
-| state | מחזיר הודעה האומרת אם המנעול פתוח או נעול | ✔ |
-| show_trys | מחזיר הודעה האומרת כמה ניסיונות שגויים נשארו עד לנעילה של המנעול |  |
-| send_pic | שולח תמונה מהמצלמה |  |
-| beep | מפעיל צפירה ארוכה מהמנעול | ✔ |
-| reset_trys | מאפס את הנסיונות השגויים לנעילה של המנעול | ✔ |
-| ping | פקודה המחזירה את הזמן הגבה של הבוט לשרת | ✔ |
-| reboot | מאתחל את המכשיר | ✔ |
-| set_channel | מגדיר את הערוץ אליו נשלחות ההתרעות </br> **כאשר לא מוגדר ערוץ לא ישלחו הודעות** | ✔ |
-</p>
 
+<table>
+    <thead>
+        <tr>
+            <th>Command</th>
+            <th>Description</th>
+            <th>Password needed</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>lock</td>
+            <td>נועל את המנעול</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>unlock</td>
+            <td>פותח את המנעול</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>state</td>
+            <td>מחזיר הודעה האומרת אם המנעול פתוח או נעול</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>show_trys</td>
+            <td>מחזיר הודעה האומרת כמה ניסיונות שגויים נשארו עד לנעילה של המנעול</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>send_pic</td>
+            <td>שולח תמונה מהמצלמה</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>beep</td>
+            <td>מפעיל צפירה ארוכה מהמנעול</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>reset_trys</td>
+            <td>מאפס את הנסיונות השגויים לנעילה של המנעול</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>ping</td>
+            <td>פקודה המחזירה את הזמן הגבה של הבוט לשרת</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>reboot</td>
+            <td>מאתחל את המכשיר</td>
+            <td>✔</td>
+        </tr>
+        <tr>
+            <td>set_channel</td>
+            <td>מגדיר את הערוץ אליו נשלחות ההתרעות &lt;/br&gt; **כאשר לא מוגדר ערוץ לא ישלחו הודעות**</td>
+            <td>✔</td>
+        </tr>
+    </tbody>
+</table>
 
 
 

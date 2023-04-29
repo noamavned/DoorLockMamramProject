@@ -26,12 +26,12 @@
 # סרטוט חשמלי
 
 <p align="right">
-  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="200" title="hi">
+  <img src="https://github.com/noamavned/DoorLockMamramProject/blob/main/images_not_related/circuit.jpg" width="500" title="hi">
 </p>
 
 # פקודות
 
-<p align="right">
+<p width="100%" align="right">
     <table>
         <thead>
             <tr>

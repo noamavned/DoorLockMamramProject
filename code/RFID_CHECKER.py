@@ -140,7 +140,7 @@ async def state(interaction: discord.Interaction, password: str):
 
 @bot.tree.command(name = "send_pic", description = "Sends a picture from the camera connected to the lock")
 async def sendPic(interaction: discord.Interaction):
-    imagePath = '/home/noamavned/project/src/img.png'
+    imagePath = '/path/to/img.png'
     try:
         if os.path.exists(imagePath):
             os.remove(imagePath)
@@ -200,7 +200,7 @@ async def looped():
             cid = d.get_ctx()
             if cid != 'None':
                 await bot.get_channel(int(cid)).send(f'**Detected 3 trys to open the lock named {d.get_machineName()}!**')
-                imagePath = '/home/noamavned/project/src/img.png'
+                imagePath = '/path/to/img.png'
                 try:
                     if os.path.exists(imagePath):
                         os.remove(imagePath)
